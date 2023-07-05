@@ -1,0 +1,26 @@
+.form{
+    border: solid black;
+    margin: 0 auto;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+    border-style: hidden;
+}
+.form >h1{
+    color: #124aa1;
+}
+.form >input{
+    padding: 10px 16px;
+    width: 80%;
+    border: solid #e2e2e2 1px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.form >button{
+    background-color: #124aa1;
+    border: none;
+    outline: #ffffff;
+    border-radius: 5px;
+    padding: 12px 16px;
+    font-size: 18px;
+}
